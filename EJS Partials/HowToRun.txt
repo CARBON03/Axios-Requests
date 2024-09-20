@@ -1,0 +1,2 @@
+To run This First Install node and run => npm install <= in console in the same directory as the project
+then run => node index.js <= in console in the same directory as the project
